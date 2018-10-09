@@ -48,3 +48,7 @@ body {
   padding-right: 15px;
   padding-left: 15px;
 }
+
+.py-5.bg-dark{
+  width: 100% !important;
+}
