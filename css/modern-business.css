@@ -158,4 +158,16 @@ a.nav-link:hover{
     color: #13aa4b !important;
   }
 
+  p.card-text{
+    color: #176734;
+  }
+
+  .text-muted {
+    color: #176734 !important;
+}
+
+h4.card-title{
+  color: #176734 !important;
+}
+
 
