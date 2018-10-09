@@ -52,3 +52,94 @@ body {
 .py-5.bg-dark{
   width: 100% !important;
 }
+
+.bg-dark{
+  background-color: #000000 !important;
+}
+
+h2{
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -1px;
+}
+
+h3{
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -1px;
+}
+
+p{
+  color: #ffffff;
+}
+
+h1.mt-4.mb-3{
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -1px;
+  font-weight: 400 !important;
+}
+
+label{
+  color: #ffffff;
+}
+
+.btn-primary {
+  border-radius: 5px;
+  background: transparent;
+  border: solid 2px #fff;
+  color: #fff;
+  font-weight: 400; 
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -1px;
+}
+
+.btn-primary:hover {
+  border-radius: 5px;
+  background: #ffffff;
+  border: solid 2px #ffffff;
+  color: #13aa4b;
+  font-weight: 400; 
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -1px;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1.2);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1.2);   
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1.2);
+  transition: all 200ms ease-in;
+  transform: scale(1.2);
+  transition: all .2s ease-in-out;
+  transform: scale(1.2);
+}
+
+a {
+  color: #13aa4b;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+a:hover {
+  color: #176734;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+  -webkit-transition: all 200ms ease-in !important;
+  -webkit-transform: scale(1.2) !important;
+  -ms-transition: all 200ms ease-in !important;
+  -ms-transform: scale(1.2) !important;   
+  -moz-transition: all 200ms ease-in !important;
+  -moz-transform: scale(1.2) !important;
+  transition: all 200ms ease-in !important;
+  transform: scale(1.2) !important;
+  transform: scale(1.2) !important;
+  transition: all .2s ease-in-out !important;
+}
+
+li.nav-item{
+margin-right: 10px;
+}
+
+
