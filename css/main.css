@@ -199,6 +199,7 @@
     text-align: center; 
     font-family: 'Roboto', sans-serif;
     letter-spacing: -1px;
+    padding-bottom: 20px;
   }
     .signUpForm .rightSide button {
       border-radius: 5px;

@@ -54,7 +54,7 @@ body {
 }
 
 .bg-dark{
-  background-color: #000000 !important;
+  background: linear-gradient(to right, #0c2905 0%, #056815 100%);
 }
 
 h2{
@@ -138,8 +138,24 @@ a:hover {
   transition: all .2s ease-in-out !important;
 }
 
-li.nav-item{
+a.nav-link{
 margin-right: 10px;
+color: #ffffff !important;
 }
+
+a.nav-link:hover{
+  margin-right: 10px;
+  color: #13aa4b !important;
+  }
+
+  a.navbar-brand{
+    margin-right: 10px;
+    color: #ffffff !important;
+  }
+
+  a.navbar-brand:hover{
+    margin-right: 10px;
+    color: #13aa4b !important;
+  }
 
 
